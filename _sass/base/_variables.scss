@@ -10,7 +10,7 @@ $code-font-size: 0.85em;
 $margin: 50px;
 
 // brand color.
-$brand-color: #0045ff;
+$brand-color: #fff;
 
 // other major colors.
 $site-title-color: #000;
@@ -19,6 +19,10 @@ $background-color: #fff;
 $border-color: #4500ff);
 
 // typography colors.
+
 $text-color: #383838;
+//마우스 올렸을때 컬러
 $link-color: darken($brand-color, 40%);
-$blockquote-color: #ff0045;
+//서브타이틀컬러
+$blockquote-color: #fff;
+
