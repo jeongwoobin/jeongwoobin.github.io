@@ -3,9 +3,9 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
+url: http://jeongwoobin.github.io
 baseurl: /jekyll-ttskch-theme
-title: Your name
+title: IT
 description: Some descriptions of yourself.
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
