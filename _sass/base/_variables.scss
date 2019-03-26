@@ -14,7 +14,8 @@ $brand-color: #ff0000;
 
 // other major colors.
 $site-title-color: #00ff00;
-$page-title-color: $brand-color;
+$page-title-color: #aaaaff
+  //$brand-color;
 $background-color: #0000ff;
 $border-color: #ff00ff;
 
@@ -23,7 +24,8 @@ $border-color: #ff00ff;
 $text-color: #00ffff;
 
 //마우스 올렸을때 컬러
-$link-color: darken($brand-color, 40%);
+$link-color: #aaffaa
+  //darken($brand-color, 40%);
 
 //서브타이틀컬러
 $blockquote-color: #ffaaaa;
