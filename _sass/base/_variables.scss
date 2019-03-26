@@ -10,22 +10,27 @@ $code-font-size: 0.85em;
 $margin: 50px;
 
 // brand color.
-$brand-color: #ff0000;
+//맨위 타이틀컬러
+$brand-color: #fff;
 
 // other major colors.
-$site-title-color: #00ff00;
+//타이틀 글자 색
+$site-title-color: #000;
+//소개글?? 글자색
 $page-title-color: #aaaaff;
   //$brand-color;
+//배경색
 $background-color: #fff;
-$border-color: #ff00ff;
+//오른쪽 매뉴 테두리 색
+$border-color: #000;
 
 // typography colors.
+//일반 글자색
+$text-color: #000;
 
-$text-color: #00ffff;
-
-//마우스 올렸을때 컬러
-$link-color: #aaffaa;
+//메뉴(링크)색
+$link-color: #6f6f6f;
   //darken($brand-color, 40%);
 
-//서브타이틀컬러
+//인용문?색
 $blockquote-color: #ffaaaa;
