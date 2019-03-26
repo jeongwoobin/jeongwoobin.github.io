@@ -6,9 +6,9 @@ eye_catch: http://jekyllrb.com/img/logo-2x.png
 ---
 
 
-##My first Post
+## My first Post
 
-####Simple MarkDown rules
+#### Simple MarkDown rules
 
 #### List
 
