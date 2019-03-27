@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Jekyll Post
+categories: markdown
 tags: first jekyll post
 eye_catch: http://jekyllrb.com/img/logo-2x.png
 ---
