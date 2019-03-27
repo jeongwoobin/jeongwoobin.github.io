@@ -11,6 +11,10 @@ layout: default
             {% if size > 1 %}
             {{ post.excerpt }}
             <a class="btn" href="{{ post.url | prepend: site.baseurl }}">{{ site.str_read_more }}</a>
+	{% else if node.layout == "category" %}
+	<li><a class="category-link {% if page.url == node.url %} active{% endif %}"
+	href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+	{% endif %}
             {% else %}
             {{ post.content }}
             {% endif %}
