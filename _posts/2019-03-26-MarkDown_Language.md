@@ -6,6 +6,9 @@ tags: MarkDown
 
 ---
 
+![MarkDown](https://commons.wikimedia.org/wiki/File:Markdown-mark.svg#/media/File:Markdown-mark.svg)
+
+
 ### 마크다운 언어란?
 텍스트 기반의 마크업 언어로 특수기호와 문자를 이용하는 매우 간단한 문법을 사용하여 쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능하다. 대표적으로 마크다운 언어를 사용하는 곳은 github가 있다.
 
