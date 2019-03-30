@@ -1,16 +1,13 @@
 ---
 
 layout: post
-title: First Jekyll Post
-tags: first jekyll post
-eye_catch: http://jekyllrb.com/img/logo-2x.png
+title: Simple MarkDown rules
+tags: MarkDown
 
 ---
 
 
-## My first Post
-
-#### Simple MarkDown rules
+### Simple MarkDown rules
 
 #### List
 
@@ -49,7 +46,3 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-
-#### See also
-
-[Markdown](http://daringfireball.net/projects/markdown/syntax)
