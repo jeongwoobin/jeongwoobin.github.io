@@ -18,8 +18,6 @@ tags: MarkDown
     * indentation
 * buz
 
-<!--more-->
-
 #### Quote
 
 > quote
